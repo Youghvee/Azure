@@ -10,35 +10,35 @@ import re
 from . import *
 
 STRINGS = {
-    1: """🎇 **Thanks for Deploying Ultroid Userbot!**
+    1: """🎇 **Thanks for Deploying RynUBot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage.""",
-    2: """🎉** About Ultroid**
+    2: """🎉** About RynUBot**
 
-🧿 Ultroid is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
+🧿 RynUBot is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
 
-❣ Made by **@TeamUltroid**""",
+❣ Made by **@Usern4meDoestExist404**""",
     3: """**💡• FAQs •**
 
--> [Username Tracker](https://t.me/UltroidUpdates/24)
--> [Keeping Custom Addons Repo](https://t.me/UltroidUpdates/28)
--> [Disabling Deploy message](https://t.me/UltroidUpdates/27)
--> [Setting up TimeZone](https://t.me/UltroidUpdates/22)
--> [About Inline PmPermit](https://t.me/UltroidUpdates/21)
--> [About Dual Mode](https://t.me/UltroidUpdates/18)
--> [Custom Thumbnail](https://t.me/UltroidUpdates/13)
--> [About FullSudo](https://t.me/UltroidUpdates/11)
--> [Setting Up PmBot](https://t.me/UltroidUpdates/2)
--> [Also Check](https://t.me/UltroidUpdates/14)
+-> [Username Tracker](https://t.me/Usern4meDoestExist404)
+-> [Keeping Custom Addons Repo](https://t.me/Usern4meDoestExist404)
+-> [Disabling Deploy message](https://t.me/Usern4meDoestExist404)
+-> [Setting up TimeZone](https://t.me/Usern4meDoestExist404)
+-> [About Inline PmPermit](https://t.me/Usern4meDoestExist404)
+-> [About Dual Mode](https://t.me/Usern4meDoestExist404)
+-> [Custom Thumbnail](https://t.me/Usern4meDoestExist404)
+-> [About FullSudo](https://t.me/Usern4meDoestExist404)
+-> [Setting Up PmBot](https://t.me/Usern4meDoestExist404)
+-> [Also Check](https://t.me/Usern4meDoestExist404)
 
-**• To Know About Updates**
-  - Join @TeamUltroid.""",
-    4: f"""• `To Know All Available Commands`
+**➻ To Know About Updates**
+  - Join @carisahabatonline_id.""",
+    4: f"""➻ `To Know All Available Commands`
 
   - `{HNDLR}help`
   - `{HNDLR}cmds`""",
-    5: """• **For Any Other Query or Suggestion**
-  - Move to **@UltroidSupportChat**.
+    5: """➻ **For Any Other Query or Suggestion**
+  - Move to **@carisahabatonline_id**.
 
 • Thanks for Reaching till END.""",
 }
@@ -50,7 +50,7 @@ async def init_depl(e):
     if CURRENT == 5:
         return await e.edit(
             STRINGS[5],
-            buttons=Button.inline("<< Back", "initbk_4"),
+            buttons=Button.inline("◁ ʙᴀᴄᴋ", "initbk_4"),
             link_preview=False,
         )
 
@@ -70,7 +70,7 @@ async def ineiq(e):
     if CURRENT == 1:
         return await e.edit(
             STRINGS[1],
-            buttons=Button.inline("Start Back >>", "initft_2"),
+            buttons=Button.inline("sᴛᴀʀᴛ ʙᴀᴄᴋ ▷", "initft_2"),
             link_preview=False,
         )
 
