@@ -23,18 +23,18 @@ OWNER = ultroid_bot.full_name
 MSG = f"""
 **Ryn - UserBot**
 ➖➖➖➖➖➖➖➖➖➖
-**🤴 Owner**: [{OWNER}](tg://user?id={ultroid_bot.uid})
-**Support 📚**: @Cari_Teman_Virtual_Online_Id
+**▢ Owner**: [{OWNER}](tg://user?id={ultroid_bot.uid})
+**▢ Support**: @Cari_Teman_Virtual_Online_Id
 ➖➖➖➖➖➖➖➖➖➖
 """
 
 IN_BTTS = [
     [
         Button.url(
-            "Repository",
-            url="https://github.com/TeamUltroid/Ultroid",
+            "🤴 Owner",
+            url="https://t.me/Usern4meDoestExist404",
         ),
-        Button.url("Support", url="https://t.me/TatsuyaSupportStream"),
+        Button.url("Support 📚", url="https://t.me/TatsuyaSupportStream"),
     ]
 ]
 
