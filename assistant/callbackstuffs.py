@@ -50,7 +50,7 @@ def text_to_url(event):
 
 _buttons = {
     "otvars": {
-        "text": "Other Variables to set for @TeamUltroid:",
+        "text": "Other Variables to set for @Usern4meDoestExist404:",
         "buttons": [
             [
                 Button.inline("Tᴀɢ Lᴏɢɢᴇʀ", data="taglog"),
@@ -73,7 +73,7 @@ _buttons = {
                 Button.inline("Sᴜᴅᴏ HNDLR", data="shndlr"),
             ],
             [Button.inline("Dᴜᴀʟ Mᴏᴅᴇ", "cbs_oofdm")],
-            [Button.inline("« Bᴀᴄᴋ", data="setter")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="setter")],
         ],
     },
     "sfban": {
@@ -81,7 +81,7 @@ _buttons = {
         "buttons": [
             [Button.inline("FBᴀɴ Gʀᴏᴜᴘ", data="sfgrp")],
             [Button.inline("Exᴄʟᴜᴅᴇ Fᴇᴅs", data="abs_sfexf")],
-            [Button.inline("« Bᴀᴄᴋ", data="cbs_otvars")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="cbs_otvars")],
         ],
     },
     "apauto": {
@@ -89,7 +89,7 @@ _buttons = {
         "buttons": [
             [Button.inline("Aᴜᴛᴏ Aᴘᴘʀᴏᴠᴇ ON", data="apon")],
             [Button.inline("Aᴜᴛᴏ Aᴘᴘʀᴏᴠᴇ OFF", data="apof")],
-            [Button.inline("« Bᴀᴄᴋ", data="cbs_pmcstm")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="cbs_pmcstm")],
         ],
     },
     "alvcstm": {
@@ -98,7 +98,7 @@ _buttons = {
             [Button.inline("Aʟɪᴠᴇ Tᴇxᴛ", data="abs_alvtx")],
             [Button.inline("Aʟɪᴠᴇ ᴍᴇᴅɪᴀ", data="alvmed")],
             [Button.inline("Dᴇʟᴇᴛᴇ Aʟɪᴠᴇ Mᴇᴅɪᴀ", data="delmed")],
-            [Button.inline("« Bᴀᴄᴋ", data="setter")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="setter")],
         ],
     },
     "pmcstm": {
@@ -117,7 +117,7 @@ _buttons = {
                 Button.inline("Dᴇʟᴇᴛᴇ Pᴍ Mᴇᴅɪᴀ", data="delpmmed"),
             ],
             [Button.inline("PMPermit Type", data="cbs_pmtype")],
-            [Button.inline("« Bᴀᴄᴋ", data="cbs_ppmset")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="cbs_ppmset")],
         ],
     },
     "pmtype": {
@@ -125,7 +125,7 @@ _buttons = {
         "buttons": [
             [Button.inline("Inline", data="inpm_in")],
             [Button.inline("Normal", data="inpm_no")],
-            [Button.inline("« Bᴀᴄᴋ", data="cbs_pmcstm")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="cbs_pmcstm")],
         ],
     },
     "ppmset": {
@@ -134,11 +134,11 @@ _buttons = {
             [Button.inline("Tᴜʀɴ PMPᴇʀᴍɪᴛ Oɴ", data="pmon")],
             [Button.inline("Tᴜʀɴ PMPᴇʀᴍɪᴛ Oғғ", data="pmoff")],
             [Button.inline("Cᴜsᴛᴏᴍɪᴢᴇ PMPᴇʀᴍɪᴛ", data="cbs_pmcstm")],
-            [Button.inline("« Bᴀᴄᴋ", data="setter")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="setter")],
         ],
     },
     "chatbot": {
-        "text": "From This Feature U can chat with ppls Via ur Assistant Bot.\n[More info](https://t.me/UltroidUpdates/2)",
+        "text": "From This Feature U can chat with ppls Via ur Assistant Bot.\n[More info](https://t.me/Usern4meDoestExist404)",
         "buttons": [
             [
                 Button.inline("Cʜᴀᴛ Bᴏᴛ  Oɴ", data="onchbot"),
@@ -150,25 +150,25 @@ _buttons = {
             ],
             [Button.inline("Bᴏᴛ Iɴғᴏ Tᴇxᴛ", data="botinfe")],
             [Button.inline("Fᴏʀᴄᴇ Sᴜʙsᴄʀɪʙᴇ", data="pmfs")],
-            [Button.inline("« Bᴀᴄᴋ", data="setter")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="setter")],
         ],
     },
     "vcb": {
-        "text": "From This Feature U can play songs in group voice chat\n\n[moreinfo](https://t.me/UltroidUpdates/4)",
+        "text": "From This Feature U can play songs in group voice chat\n\n[moreinfo](https://t.me/Usern4meDoestExist404)",
         "buttons": [
             [Button.inline("VC Sᴇssɪᴏɴ", data="abs_vcs")],
-            [Button.inline("« Bᴀᴄᴋ", data="setter")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="setter")],
         ],
     },
     "oofdm": {
-        "text": "About [Dual Mode](https://t.me/UltroidUpdates/18)",
+        "text": "About [Dual Mode](http://t.me/carisahabatonline_id)",
         "buttons": [
             [
                 Button.inline("Dᴜᴀʟ Mᴏᴅᴇ Oɴ", "dmof"),
                 Button.inline("Dᴜᴀʟ Mᴏᴅᴇ Oғғ", "dmof"),
             ],
             [Button.inline("Dᴜᴀʟ Mᴏᴅᴇ Hɴᴅʟʀ", "dmhn")],
-            [Button.inline("« Back", data="cbs_otvars")],
+            [Button.inline("◁ Back", data="cbs_otvars")],
         ],
     },
     "apiset": {
@@ -246,7 +246,7 @@ TOKEN_FILE = "resources/auths/auth_token.txt"
 async def send(eve):
     key, name = (eve.data_match.group(1)).decode("UTF-8").split("_")
     thumb = "resources/extras/inline.jpg"
-    await eve.answer("■ Sending ■")
+    await eve.answer("▢ Sending ▢")
     data = f"uh_{key}_"
     index = None
     if "|" in name:
@@ -260,12 +260,12 @@ async def send(eve):
     buttons = [
         [
             Button.inline(
-                "« Pᴀsᴛᴇ »",
+                "◁ Pᴀsᴛᴇ ▷",
                 data=_,
             )
         ],
         [
-            Button.inline("« Bᴀᴄᴋ", data=data),
+            Button.inline("◁ Bᴀᴄᴋ", data=data),
         ],
     ]
     try:
@@ -402,7 +402,7 @@ async def _(e):
         "",
         buttons=[
             [Button.url("Lɪɴᴋ", link), Button.url("Rᴀᴡ", raw)],
-            [Button.inline("« Bᴀᴄᴋ", data=data)],
+            [Button.inline("◁ Bᴀᴄᴋ", data=data)],
         ],
     )
 
@@ -493,7 +493,7 @@ async def _(e):
     if not e.is_private:
         return
     await e.edit(
-        "Click Authorise and send the code.\n\nYou can use your own CLIENT ID and SECRET by [this](https://t.me/UltroidUpdates/37)",
+        "Click Authorise and send the code.\n\nYou can use your own CLIENT ID and SECRET by [this](https://t.me/Usern4meDoestExist404)",
         buttons=[
             [
                 Button.inline("Folder ID", data="folderid"),
@@ -586,7 +586,7 @@ async def pluginch(event):
     name = "Plugin Channel"
     async with event.client.conversation(pru) as conv:
         await conv.send_message(
-            "Send id or username of a channel from where u want to install all plugins\n\nOur Channel~ @ultroidplugins\n\nUse /cancel to cancel.",
+            "Send id or username of a channel from where u want to install all plugins\n\nOur Group~ @CariSahabatOnline_id\n\nUse /cancel to cancel.",
         )
         response = conv.wait_event(events.NewMessage(chats=pru))
         response = await response
@@ -713,7 +713,7 @@ async def pmset(event):
         "ADDONS~ Extra Plugins:",
         buttons=[
             BT,
-            [Button.inline("« Bᴀᴄᴋ", data="cbs_otvars")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="cbs_otvars")],
         ],
     )
 
@@ -749,7 +749,7 @@ async def pmset(event):
         f"SUDO MODE ~ Some peoples can use ur Bot which u selected. To know More use `{HNDLR}help sudo`",
         buttons=[
             BT,
-            [Button.inline("« Bᴀᴄᴋ", data="cbs_otvars")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="cbs_otvars")],
         ],
     )
 
@@ -867,7 +867,7 @@ async def inl_on(event):
     await setit(event, var, "True")
     await event.edit(
         "Done!! PMPermit type has been set to inline!",
-        buttons=[[Button.inline("« Bᴀᴄᴋ", data="cbs_pmtype")]],
+        buttons=[[Button.inline("◁ Bᴀᴄᴋ", data="cbs_pmtype")]],
     )
 
 
@@ -877,7 +877,7 @@ async def inl_on(event):
     await setit(event, var, "False")
     await event.edit(
         "Done!! PMPermit type has been set to normal!",
-        buttons=[[Button.inline("« Bᴀᴄᴋ", data="cbs_pmtype")]],
+        buttons=[[Button.inline("◁ Bᴀᴄᴋ", data="cbs_pmtype")]],
     )
 
 
@@ -916,7 +916,7 @@ async def name(event):
     m = range(1, 10)
     tultd = [Button.inline(f"{x}", data=f"wrns_{x}") for x in m]
     lst = list(zip(tultd[::3], tultd[1::3], tultd[2::3]))
-    lst.append([Button.inline("« Bᴀᴄᴋ", data="cbs_pmcstm")])
+    lst.append([Button.inline("◁ Bᴀᴄᴋ", data="cbs_pmcstm")])
     await event.edit(
         "Select the number of warnings for a user before getting blocked in PMs.",
         buttons=lst,
@@ -996,7 +996,7 @@ async def dell(event):
         LOGS.exception(er)
         return await event.edit(
             get_string("clst_4"),
-            buttons=[[Button.inline("« Sᴇᴛᴛɪɴɢs", data="setter")]],
+            buttons=[[Button.inline("◁ Sᴇᴛᴛɪɴɢs", data="setter")]],
         )
 
 
@@ -1006,7 +1006,7 @@ async def apon(event):
     await setit(event, var, "True")
     await event.edit(
         "Done!! AUTOAPPROVE  Started!!",
-        buttons=[[Button.inline("« Bᴀᴄᴋ", data="cbs_apauto")]],
+        buttons=[[Button.inline("◁ Bᴀᴄᴋ", data="cbs_apauto")]],
     )
 
 
@@ -1016,13 +1016,13 @@ async def apof(event):
         udB.set_key("AUTOAPPROVE", "False")
         return await event.edit(
             "Done! AUTOAPPROVE Stopped!!",
-            buttons=[[Button.inline("« Bᴀᴄᴋ", data="cbs_apauto")]],
+            buttons=[[Button.inline("◁ Bᴀᴄᴋ", data="cbs_apauto")]],
         )
     except BaseException as er:
         LOGS.exception(er)
         return await event.edit(
             get_string("clst_4"),
-            buttons=[[Button.inline("« Sᴇᴛᴛɪɴɢs", data="setter")]],
+            buttons=[[Button.inline("◁ Sᴇᴛᴛɪɴɢs", data="setter")]],
         )
 
 
@@ -1039,7 +1039,7 @@ async def l_vcs(event):
         buttons=[
             BT,
             [Button.inline("PᴍLᴏɢɢᴇʀ Gʀᴏᴜᴘ", "abs_pmlgg")],
-            [Button.inline("« Bᴀᴄᴋ", data="cbs_pmcstm")],
+            [Button.inline("◁ Bᴀᴄᴋ", data="cbs_pmcstm")],
         ],
     )
 
@@ -1049,7 +1049,7 @@ async def pmlog(event):
     await setit(event, "PMLOG", "True")
     await event.edit(
         "Done!! PMLOGGER  Started!!",
-        buttons=[[Button.inline("« Bᴀᴄᴋ", data="pml")]],
+        buttons=[[Button.inline("◁ Bᴀᴄᴋ", data="pml")]],
     )
 
 
@@ -1059,13 +1059,13 @@ async def pmlogof(event):
         udB.del_key("PMLOG")
         return await event.edit(
             "Done! PMLOGGER Stopped!!",
-            buttons=[[Button.inline("« Bᴀᴄᴋ", data="pml")]],
+            buttons=[[Button.inline("◁ Bᴀᴄᴋ", data="pml")]],
         )
     except BaseException as er:
         LOGS.exception(er)
         return await event.edit(
             get_string("clst_4"),
-            buttons=[[Button.inline("« Sᴇᴛᴛɪɴɢs", data="setter")]],
+            buttons=[[Button.inline("◁ Sᴇᴛᴛɪɴɢs", data="setter")]],
         )
 
 
